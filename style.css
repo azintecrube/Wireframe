@@ -323,7 +323,7 @@ h5 {
 .chanelbox{
   position: relative;
   width: 165px;
-  height: 90px;
+  height: 88px;
   background-color: #f3e4ce;
   margin-top: 10px;
 }
@@ -336,7 +336,7 @@ h5 {
   position: absolute;
   margin-top: 40px;
   margin-left: 8px;
-  padding-top: 10px;
+  padding-top: 25px;
   height: max-content !important;
   width: max-content !important;
 }
@@ -372,7 +372,7 @@ h5 {
 
 }
 .container .browse{
-  padding-bottom: -40px;
+  padding-bottom: 10px;
   display: flex;
   border-bottom: 3px solid #f3e4ce;
   width: 100%;
@@ -394,17 +394,18 @@ h5 {
   height: 30px;
   background-color: #652a2a;
   top: 0 !important;
-  right: 0 !important;s
+  right: 0 !important;
   clip-path: polygon(100% 0, 0 0, 100% 100%);
 }
 .hr{
-  position: absolute;
-  width:294px !important;
-  margin-left: 71px;
+  width:100% !important;
   background-color: #f3e4ce;
   margin-top:18px ;
 }
 .hr1{
   width: 100%;
   background-color: #f3e4ce;
+}
+.finishes{
+  width: 400px;
 }
